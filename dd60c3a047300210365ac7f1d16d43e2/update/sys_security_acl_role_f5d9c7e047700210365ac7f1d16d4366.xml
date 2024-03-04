@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-04 15:13:36</sys_created_on>
+        <sys_id>f5d9c7e047700210365ac7f1d16d4366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1319299_sec_new_t_table.x_1319299_sec_new.t_table_user</sys_name>
+        <sys_package display_value="sec new app" source="x_1319299_sec_new">dd60c3a047300210365ac7f1d16d43e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sec new app">dd60c3a047300210365ac7f1d16d43e2</sys_scope>
+        <sys_security_acl display_value="x_1319299_sec_new_t_table">f5d9c7e047700210365ac7f1d16d4362</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f5d9c7e047700210365ac7f1d16d4366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-04 15:13:36</sys_updated_on>
+        <sys_user_role display_value="x_1319299_sec_new.t_table_user" name="x_1319299_sec_new.t_table_user">21d947ec47300210365ac7f1d16d436b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

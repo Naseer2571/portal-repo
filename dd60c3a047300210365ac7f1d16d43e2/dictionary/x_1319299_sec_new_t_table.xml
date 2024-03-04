@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b989cfa047700210365ac7f1d16d4313" label="T table" max_length="40" name="x_1319299_sec_new_t_table" type="collection">
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="URL" max_length="100" name="url" type="string"/>
+    </element>
+</database>
